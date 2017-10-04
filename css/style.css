@@ -364,6 +364,7 @@ select{
     margin-top: 15px;
     margin-bottom: 15px;
     margin-right: 10px;
+    color: white;
 }
 
 .info_div{
@@ -371,6 +372,11 @@ select{
     top: 10px;
     right: 10px;
     z-index: 1;
+}
+
+.info_div i{
+    color: white;
+    cursor:pointer;
 }
 
 .game{
